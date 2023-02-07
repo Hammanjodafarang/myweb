@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(224, 221, 223);
+   text-shadow: 0px;
+}
+h1 {
+    color: rgb(183, 255, 0);
+    margin: 20px;
+    font-size: xx-large;
+    text-align: center;
+
+}
+h3{
+text-align: center;
+color: rgb(196, 213, 255);
+margin: 40px;
+}
+ hr{
+    color: brown;
+border-spacing: 20px;
+}
+
+
+
